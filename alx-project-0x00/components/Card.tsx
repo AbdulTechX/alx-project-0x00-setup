@@ -62,6 +62,7 @@ const Card: React.FC = () => {
         <p className=" text-[22px] font-semibold">$2,450<span className=" text-[14px] text-[#787878]">/n</span></p>
 
       </div>
+      
     </div>
   )
 }
